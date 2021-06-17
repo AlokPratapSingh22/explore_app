@@ -1,16 +1,10 @@
 # explore_app
 
-A new Flutter project.
+An app that provides info about planets in Solar System.
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/60225218/122408694-32dd1a00-cfa0-11eb-9292-83adecd64f02.png)
+![image](https://user-images.githubusercontent.com/60225218/122408674-307ac000-cfa0-11eb-9e25-6c3247513c0e.png)
 
-This project is a starting point for a Flutter application.
+Here this code is mainly to build UI of the app.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Just an attempt to make more beautiful applications
